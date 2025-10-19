@@ -10,4 +10,4 @@
 
 5. Git Cheet Sheet - [link](https://education.github.com/git-cheat-sheet-education.pdf)
 6. Git Pro book - [link](https://education.github.com/git-cheat-sheet-education.pdf)
-Notatki z kluczowymi informacjami do systemu Git - [link]()
+7. Notatki z kluczowymi informacjami do systemu Git - [link]()
